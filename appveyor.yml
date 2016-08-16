@@ -1,6 +1,6 @@
 version: 1.1.0.{build}
 os: Visual Studio 2015
-configuration: Latest_Release
+configuration: Release
 platform: ARM
 artifacts:
 - path: AppveyorXamlBehaviorsTest\bin\**\*_ARM_*.appx
